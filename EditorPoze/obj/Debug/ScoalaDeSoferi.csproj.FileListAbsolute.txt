@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\ScoalaDeSoferi.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\ScoalaDeSoferi.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\ScoalaDeSoferi.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\bin\Debug\EditorPoze.exe.config
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\bin\Debug\EditorPoze.exe
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\bin\Debug\EditorPoze.pdb
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\EditorPoze.Main.resources
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\EditorPoze.Properties.Resources.resources
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\EditorPoze.exe
+C:\Users\Stefan\Desktop\ScoalaDeSoferi\ScoalaDeSoferi\obj\Debug\EditorPoze.pdb
