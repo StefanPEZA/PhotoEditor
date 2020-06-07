@@ -195,6 +195,7 @@
             this.radioPolaroid.TabStop = true;
             this.radioPolaroid.Text = "Old image";
             this.radioPolaroid.UseVisualStyleBackColor = true;
+            this.radioPolaroid.CheckedChanged += new System.EventHandler(this.radioPolaroid_CheckedChanged);
             // 
             // ValoareSat
             // 

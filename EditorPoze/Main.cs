@@ -298,7 +298,7 @@ namespace EditorPoze
                new float[] {1,     0,     0,     0,    0 },
                new float[] {0,     1,     0,     0,    0 },
                new float[] {0,     0,     1,     0,    0 },
-               new float[] {0,     0,     0,     0.5f, 0 },
+               new float[] {0,     0,     0,     0.4f, 0 },
                new float[] {-0.1f, -0.1f, -0.1f, 0,    1 }};
 
             ColorMatrix colorMatrix2 = new ColorMatrix(colorMatrixElements2);
@@ -338,6 +338,11 @@ namespace EditorPoze
         {
             ValoareLum.Text = Convert.ToString(trackLuminozitate.Value);
             Ajusteaza_Imaginea();
+        }
+
+        private void radioPolaroid_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
 
         //Schimba saturatia;
