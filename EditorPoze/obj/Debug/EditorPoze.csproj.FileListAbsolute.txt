@@ -1,9 +1,0 @@
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\bin\Debug\EditorPoze.exe.config
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\bin\Debug\EditorPoze.exe
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\bin\Debug\EditorPoze.pdb
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.csprojAssemblyReference.cache
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.Main.resources
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.Properties.Resources.resources
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.csproj.GenerateResource.cache
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.exe
-C:\Users\stefa\Documents\GitHub\PhotoEditor\EditorPoze\obj\Debug\EditorPoze.pdb
